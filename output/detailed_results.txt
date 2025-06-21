@@ -1,0 +1,120 @@
+詳細結果
+==================================================
+
+各顔の詳細情報:
+------------------------------
+Face 000:
+  元画像: 1403970539751.jpg
+  顔番号: 0
+  類似度: 0.9467
+  保存名: face_000_similarity_0.947.jpg
+
+Face 001:
+  元画像: 1403970539751.jpg
+  顔番号: 1
+  類似度: 0.9313
+  保存名: face_001_similarity_0.931.jpg
+
+Face 002:
+  元画像: 1403970539751.jpg
+  顔番号: 2
+  類似度: 0.9191
+  保存名: face_002_similarity_0.919.jpg
+
+Face 003:
+  元画像: 20230211203251.jpg
+  顔番号: 0
+  類似度: 0.9627
+  保存名: face_003_similarity_0.963.jpg
+
+Face 004:
+  元画像: 20230211203251.jpg
+  顔番号: 1
+  類似度: 0.9608
+  保存名: face_004_similarity_0.961.jpg
+
+Face 005:
+  元画像: ea1fac22.jpg
+  顔番号: 0
+  類似度: 0.9413
+  保存名: face_005_similarity_0.941.jpg
+
+Face 006:
+  元画像: ea1fac22.jpg
+  顔番号: 1
+  類似度: 0.9563
+  保存名: face_006_similarity_0.956.jpg
+
+Face 007:
+  元画像: ea1fac22.jpg
+  顔番号: 2
+  類似度: 0.9418
+  保存名: face_007_similarity_0.942.jpg
+
+Face 008:
+  元画像: ea1fac22.jpg
+  顔番号: 3
+  類似度: 0.9449
+  保存名: face_008_similarity_0.945.jpg
+
+Face 009:
+  元画像: ea1fac22.jpg
+  顔番号: 4
+  類似度: 0.9525
+  保存名: face_009_similarity_0.952.jpg
+
+Face 010:
+  元画像: ea1fac22.jpg
+  顔番号: 5
+  類似度: 0.9676
+  保存名: face_010_similarity_0.968.jpg
+
+Face 011:
+  元画像: ea1fac22.jpg
+  顔番号: 6
+  類似度: 0.9592
+  保存名: face_011_similarity_0.959.jpg
+
+Face 012:
+  元画像: ea1fac22.jpg
+  顔番号: 7
+  類似度: 0.9677
+  保存名: face_012_similarity_0.968.jpg
+
+Face 013:
+  元画像: 75QsVNWNZbCsMzxacLTY1DQsh4fmtXxiq8JmXgUc.jpeg
+  顔番号: 0
+  類似度: 0.9761
+  保存名: face_013_similarity_0.976.jpg
+
+Face 014:
+  元画像: 75QsVNWNZbCsMzxacLTY1DQsh4fmtXxiq8JmXgUc.jpeg
+  顔番号: 1
+  類似度: 0.9455
+  保存名: face_014_similarity_0.946.jpg
+
+Face 015:
+  元画像: 20230211202435.png
+  顔番号: 0
+  類似度: 0.9538
+  保存名: face_015_similarity_0.954.jpg
+
+
+類似度順ランキング:
+------------------------------
+ 1位: 75QsVNWNZbCsMzxacLTY1DQsh4fmtXxiq8JmXgUc.jpeg (顔0) - 類似度: 0.9761
+ 2位: ea1fac22.jpg (顔7) - 類似度: 0.9677
+ 3位: ea1fac22.jpg (顔5) - 類似度: 0.9676
+ 4位: 20230211203251.jpg (顔0) - 類似度: 0.9627
+ 5位: 20230211203251.jpg (顔1) - 類似度: 0.9608
+ 6位: ea1fac22.jpg (顔6) - 類似度: 0.9592
+ 7位: ea1fac22.jpg (顔1) - 類似度: 0.9563
+ 8位: 20230211202435.png (顔0) - 類似度: 0.9538
+ 9位: ea1fac22.jpg (顔4) - 類似度: 0.9525
+10位: 1403970539751.jpg (顔0) - 類似度: 0.9467
+11位: 75QsVNWNZbCsMzxacLTY1DQsh4fmtXxiq8JmXgUc.jpeg (顔1) - 類似度: 0.9455
+12位: ea1fac22.jpg (顔3) - 類似度: 0.9449
+13位: ea1fac22.jpg (顔2) - 類似度: 0.9418
+14位: ea1fac22.jpg (顔0) - 類似度: 0.9413
+15位: 1403970539751.jpg (顔1) - 類似度: 0.9313
+16位: 1403970539751.jpg (顔2) - 類似度: 0.9191

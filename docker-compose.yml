@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  anime-face-analyzer:
+    build: .
+    container_name: anime-face-analyzer
+    volumes:
+      - ./input:/app/input
+      - ./output:/app/output
+      - ./models:/app/models
+    environment:
+      - PYTHONUNBUFFERED=1
+    working_dir: /app
+    command: python src/main.py
